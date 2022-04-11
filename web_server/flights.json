@@ -1,0 +1,1422 @@
+[
+    {
+        "longitude": 120.32406,
+        "latitude": 29.57881,
+        "heading": 59,
+        "flight_number": "CSH9458-1607070900-schedule-0342:0",
+        "departure": "KWE",
+        "arrival": "SHA",
+        "altitude": 291,
+        "groundspeed": 570
+    },
+    {
+        "longitude": 121.54595,
+        "latitude": 28.91709,
+        "heading": 35,
+        "flight_number": "CSZ9915-1607071800-schedule-0426:0",
+        "departure": "SZX",
+        "arrival": "TAO",
+        "altitude": 311,
+        "groundspeed": 518
+    },
+    {
+        "longitude": 121.12136,
+        "latitude": 31.15938,
+        "heading": 178,
+        "flight_number": "CSN3558-1607076540-schedule-0329:0",
+        "departure": "SHA",
+        "arrival": "SZX",
+        "altitude": 81,
+        "groundspeed": 275
+    },
+    {
+        "longitude": 121.26811,
+        "latitude": 31.3325,
+        "heading": 313,
+        "flight_number": "KLM894-1607237972-ed-0003:2",
+        "departure": "PVG",
+        "arrival": null,
+        "altitude": 128,
+        "groundspeed": 345
+    },
+    {
+        "longitude": 124.49734,
+        "latitude": 31.5323,
+        "heading": 68,
+        "flight_number": "ANA898-1607068200-schedule-0213:0",
+        "departure": "HAN",
+        "arrival": "NRT",
+        "altitude": 390,
+        "groundspeed": 622
+    },
+    {
+        "longitude": 119.33511,
+        "latitude": 31.73488,
+        "heading": 35,
+        "flight_number": "CSZ9756-1607071800-schedule-0343:0",
+        "departure": "XMN",
+        "arrival": "YTY",
+        "altitude": 113,
+        "groundspeed": 329
+    },
+    {
+        "longitude": 119.18098,
+        "latitude": 31.16528,
+        "heading": 344,
+        "flight_number": "CSN3725-1607075640-schedule-0276:0",
+        "departure": "YIW",
+        "arrival": "PKX",
+        "altitude": 321,
+        "groundspeed": 435
+    },
+    {
+        "longitude": 119.31354,
+        "latitude": 32.42708,
+        "heading": 145,
+        "flight_number": "CDG1167-1607074740-schedule-0326:0",
+        "departure": "TNA",
+        "arrival": "SHA",
+        "altitude": 221,
+        "groundspeed": 433
+    },
+    {
+        "longitude": 121.33707,
+        "latitude": 31.1833,
+        "heading": 357,
+        "flight_number": "CUA2317-1607069100-schedule-0450:0",
+        "departure": "SJW",
+        "arrival": "SHA",
+        "altitude": -1,
+        "groundspeed": 151
+    },
+    {
+        "longitude": 121.2616,
+        "latitude": 29.69659,
+        "heading": 18,
+        "flight_number": "CES542-1607064300-schedule-0145:0",
+        "departure": "BKK",
+        "arrival": "PVG",
+        "altitude": 242,
+        "groundspeed": 450
+    },
+    {
+        "longitude": 118.77095,
+        "latitude": 31.99084,
+        "heading": 267,
+        "flight_number": "CES5689-1607073600-schedule-0448:0",
+        "departure": "SHA",
+        "arrival": "HET",
+        "altitude": 301,
+        "groundspeed": 349
+    },
+    {
+        "longitude": 121.63261,
+        "latitude": 33.22605,
+        "heading": 339,
+        "flight_number": "CES5538-1607073600-schedule-0278:0",
+        "departure": "HGH",
+        "arrival": "TAO",
+        "altitude": 266,
+        "groundspeed": 448
+    },
+    {
+        "longitude": 119.90796,
+        "latitude": 29.96393,
+        "heading": 51,
+        "flight_number": "CSN3881-1607071800-schedule-0345:0",
+        "departure": "ZUH",
+        "arrival": "HGH",
+        "altitude": 59,
+        "groundspeed": 284
+    },
+    {
+        "longitude": 121.19557,
+        "latitude": 31.3885,
+        "heading": 313,
+        "flight_number": "CES2389-1607075640-schedule-0350",
+        "departure": "NGB",
+        "arrival": "XIY",
+        "altitude": 224,
+        "groundspeed": 382
+    },
+    {
+        "longitude": 121.34276,
+        "latitude": 31.04288,
+        "heading": 20,
+        "flight_number": "CSN8885-1607070000-schedule-0418:0",
+        "departure": "PKX",
+        "arrival": "SHA",
+        "altitude": 22,
+        "groundspeed": 185
+    },
+    {
+        "longitude": 120.4792,
+        "latitude": 29.66588,
+        "heading": 282,
+        "flight_number": "CQH6429-1607074740-schedule-0451:0",
+        "departure": "NGB",
+        "arrival": "CKG",
+        "altitude": 157,
+        "groundspeed": 368
+    },
+    {
+        "longitude": 121.20298,
+        "latitude": 31.32239,
+        "heading": 115,
+        "flight_number": "CCA1549-1607070938-airline-0009:0",
+        "departure": "PEK",
+        "arrival": "SHA",
+        "altitude": 66,
+        "groundspeed": 245
+    },
+    {
+        "longitude": 122.44115,
+        "latitude": 29.38989,
+        "heading": 180,
+        "flight_number": "CCA1945-1607074740-schedule-0427:0",
+        "departure": "PVG",
+        "arrival": "ZUH",
+        "altitude": 321,
+        "groundspeed": 422
+    },
+    {
+        "longitude": 120.24959,
+        "latitude": 29.98444,
+        "heading": 242,
+        "flight_number": "CDG1174-1607072700-schedule-0415:0",
+        "departure": "HGH",
+        "arrival": "XMN",
+        "altitude": 157,
+        "groundspeed": 332
+    },
+    {
+        "longitude": 120.97029,
+        "latitude": 31.91785,
+        "heading": 34,
+        "flight_number": "RLH6564-1607068200-schedule-0398:0",
+        "departure": "NNG",
+        "arrival": "NTG",
+        "altitude": 18,
+        "groundspeed": 161
+    },
+    {
+        "longitude": 121.32993,
+        "latitude": 30.96115,
+        "heading": 162,
+        "flight_number": "CSN6395-1607070900-schedule-0456:0",
+        "departure": "CGO",
+        "arrival": "NGB",
+        "altitude": 199,
+        "groundspeed": 391
+    },
+    {
+        "longitude": 122.38872,
+        "latitude": 30.35793,
+        "heading": 3,
+        "flight_number": "FZA6553-1607076540-schedule-0381:0",
+        "departure": "HSN",
+        "arrival": "DLC",
+        "altitude": 95,
+        "groundspeed": 288
+    },
+    {
+        "longitude": 119.03042,
+        "latitude": 29.26941,
+        "heading": 228,
+        "flight_number": "CBJ5270-1607074740-schedule-0308:0",
+        "departure": "HGH",
+        "arrival": "CAN",
+        "altitude": 242,
+        "groundspeed": 350
+    },
+    {
+        "longitude": 120.94611,
+        "latitude": 28.83083,
+        "heading": 18,
+        "flight_number": "CES2008-1607071800-schedule-0355:0",
+        "departure": "MFM",
+        "arrival": "PVG",
+        "altitude": 351,
+        "groundspeed": 514
+    },
+    {
+        "longitude": 122.03547,
+        "latitude": 32.92058,
+        "heading": 158,
+        "flight_number": "CES9656-1607073600-schedule-0259:0",
+        "departure": "YNT",
+        "arrival": "FOC",
+        "altitude": 298,
+        "groundspeed": 404
+    },
+    {
+        "longitude": 121.31859,
+        "latitude": 29.90836,
+        "heading": 124,
+        "flight_number": "CCD8301-1607242314-adhoc-0:0",
+        "departure": "PEK",
+        "arrival": null,
+        "altitude": 25,
+        "groundspeed": 138
+    },
+    {
+        "longitude": 119.68682,
+        "latitude": 32.22565,
+        "heading": 253,
+        "flight_number": "CES2405-1607074740-schedule-0405:0",
+        "departure": "SHA",
+        "arrival": "TYN",
+        "altitude": 256,
+        "groundspeed": 331
+    },
+    {
+        "longitude": 121.24813,
+        "latitude": 30.45987,
+        "heading": 6,
+        "flight_number": "CES5312-1607070900-schedule-0434:0",
+        "departure": "CAN",
+        "arrival": "SHA",
+        "altitude": 144,
+        "groundspeed": 279
+    },
+    {
+        "longitude": 121.42861,
+        "latitude": 28.56222,
+        "heading": 90,
+        "flight_number": "CSN6723-1607071800-schedule-0411:0",
+        "departure": "CSX",
+        "arrival": "HYN",
+        "altitude": null,
+        "groundspeed": null
+    },
+    {
+        "longitude": 119.98628,
+        "latitude": 29.85919,
+        "heading": 241,
+        "flight_number": "CSN3502-1607074740-schedule-0322:0",
+        "departure": "HGH",
+        "arrival": "CAN",
+        "altitude": 177,
+        "groundspeed": 346
+    },
+    {
+        "longitude": 119.14852,
+        "latitude": 29.43054,
+        "heading": 228,
+        "flight_number": "CES5313-1607074740-schedule-0350:0",
+        "departure": "SHA",
+        "arrival": "CAN",
+        "altitude": 327,
+        "groundspeed": 394
+    },
+    {
+        "longitude": 122.06982,
+        "latitude": 32.27844,
+        "heading": 339,
+        "flight_number": "CSN6328-1607070900-schedule-0282:0",
+        "departure": "SZX",
+        "arrival": "DLC",
+        "altitude": 314,
+        "groundspeed": 421
+    },
+    {
+        "longitude": 122.45717,
+        "latitude": 31.4545,
+        "heading": 210,
+        "flight_number": "CCA1788-1607068200-schedule-0339:0",
+        "departure": "WEH",
+        "arrival": "HGH",
+        "altitude": 273,
+        "groundspeed": 364
+    },
+    {
+        "longitude": 120.71661,
+        "latitude": 29.44766,
+        "heading": 342,
+        "flight_number": "CES9658-1607072700-schedule-0418:0",
+        "departure": "WUH",
+        "arrival": "NGB",
+        "altitude": 117,
+        "groundspeed": 302
+    },
+    {
+        "longitude": 118.69416,
+        "latitude": 31.75701,
+        "heading": 96,
+        "flight_number": "JYH1318-1607071800-schedule-0436:0",
+        "departure": "NNY",
+        "arrival": "NKG",
+        "altitude": null,
+        "groundspeed": null
+    },
+    {
+        "longitude": 120.77454,
+        "latitude": 29.19514,
+        "heading": 185,
+        "flight_number": "CCA1952-1607069100-schedule-0525:0",
+        "departure": "PEK",
+        "arrival": "WNZ",
+        "altitude": 205,
+        "groundspeed": 352
+    },
+    {
+        "longitude": 122.32339,
+        "latitude": 31.24507,
+        "heading": 209,
+        "flight_number": "CES5628-1607070900-schedule-0487:0",
+        "departure": "DLC",
+        "arrival": "PVG",
+        "altitude": 88,
+        "groundspeed": 270
+    },
+    {
+        "longitude": 119.36398,
+        "latitude": 31.59049,
+        "heading": 90,
+        "flight_number": "DKH1126-1607072700-schedule-0388:0",
+        "departure": "CSX",
+        "arrival": "SHA",
+        "altitude": 262,
+        "groundspeed": 504
+    },
+    {
+        "longitude": 121.97216,
+        "latitude": 33.93006,
+        "heading": 232,
+        "flight_number": "CSN6251-1607069100-schedule-0448:0",
+        "departure": "HRB",
+        "arrival": "PVG",
+        "altitude": 276,
+        "groundspeed": 381
+    },
+    {
+        "longitude": 120.64345,
+        "latitude": 30.09933,
+        "heading": 292,
+        "flight_number": "CSN6170-1607065260-schedule-0428:0",
+        "departure": "HRB",
+        "arrival": "HGH",
+        "altitude": 76,
+        "groundspeed": 269
+    },
+    {
+        "longitude": 121.3119,
+        "latitude": 30.40553,
+        "heading": 36,
+        "flight_number": "B1217-1607248317-adhoc-0:0",
+        "departure": null,
+        "arrival": null,
+        "altitude": 66,
+        "groundspeed": 286
+    },
+    {
+        "longitude": 119.30504,
+        "latitude": 31.82336,
+        "heading": 243,
+        "flight_number": "EPA6339-1607074740-schedule-0393:0",
+        "departure": "NTG",
+        "arrival": "KMG",
+        "altitude": 197,
+        "groundspeed": 297
+    },
+    {
+        "longitude": 119.64504,
+        "latitude": 29.56328,
+        "heading": 348,
+        "flight_number": "CSC8326-1607074740-schedule-0259:0",
+        "departure": "FOC",
+        "arrival": "CZX",
+        "altitude": 246,
+        "groundspeed": 450
+    },
+    {
+        "longitude": 118.77241,
+        "latitude": 33.11251,
+        "heading": 21,
+        "flight_number": "CUA5868-1607070900-schedule-0447:0",
+        "departure": "SZX",
+        "arrival": "RIZ",
+        "altitude": 236,
+        "groundspeed": 426
+    },
+    {
+        "longitude": 121.33632,
+        "latitude": 31.19787,
+        "heading": 357,
+        "flight_number": "CES5390-1607070000-schedule-0497:0",
+        "departure": "LYA",
+        "arrival": "SHA",
+        "altitude": null,
+        "groundspeed": null
+    },
+    {
+        "longitude": 120.75205,
+        "latitude": 32.12924,
+        "heading": 328,
+        "flight_number": "CUA5789-1607074740-schedule-0279:0",
+        "departure": "WNZ",
+        "arrival": "LYG",
+        "altitude": 276,
+        "groundspeed": 397
+    },
+    {
+        "longitude": 118.66585,
+        "latitude": 32.05075,
+        "heading": 164,
+        "flight_number": "CCA1563-1607071800-schedule-0428:0",
+        "departure": "PEK",
+        "arrival": "HGH",
+        "altitude": 226,
+        "groundspeed": 415
+    },
+    {
+        "longitude": 119.61624,
+        "latitude": 29.82912,
+        "heading": 34,
+        "flight_number": "GCR6508-1607069100-schedule-0562:0",
+        "departure": "CTU",
+        "arrival": "HGH",
+        "altitude": 83,
+        "groundspeed": 296
+    },
+    {
+        "longitude": 120.40682,
+        "latitude": 30.20988,
+        "heading": 291,
+        "flight_number": "CSN3746-1607074740-schedule-0298:0",
+        "departure": "HGH",
+        "arrival": "CGO",
+        "altitude": 87,
+        "groundspeed": 268
+    },
+    {
+        "longitude": 121.88447,
+        "latitude": 30.83802,
+        "heading": 13,
+        "flight_number": "CES6366-1607069100-schedule-0436:0",
+        "departure": "NNG",
+        "arrival": "PVG",
+        "altitude": 37,
+        "groundspeed": 221
+    },
+    {
+        "longitude": 121.87414,
+        "latitude": 33.77728,
+        "heading": 253,
+        "flight_number": "CSN3910-1607070000-schedule-0378:0",
+        "departure": "CGQ",
+        "arrival": "HGH",
+        "altitude": 301,
+        "groundspeed": 369
+    },
+    {
+        "longitude": 118.77962,
+        "latitude": 31.83902,
+        "heading": 264,
+        "flight_number": "CSN3828-1607076540-schedule-0345:0",
+        "departure": "NKG",
+        "arrival": "SZX",
+        "altitude": 97,
+        "groundspeed": 266
+    },
+    {
+        "longitude": 118.78843,
+        "latitude": 29.68985,
+        "heading": 96,
+        "flight_number": "CSC8170-1607070000-schedule-0349:0",
+        "departure": "LHW",
+        "arrival": "HGH",
+        "altitude": 190,
+        "groundspeed": 463
+    },
+    {
+        "longitude": 121.46507,
+        "latitude": 29.82494,
+        "heading": 270,
+        "flight_number": "CXA8076-1607063400-schedule-0388:0",
+        "departure": "CGQ",
+        "arrival": "NGB",
+        "altitude": null,
+        "groundspeed": null
+    },
+    {
+        "longitude": 120.5602,
+        "latitude": 29.40649,
+        "heading": 88,
+        "flight_number": "CSN3271-1607070000-schedule-0509:0",
+        "departure": "KWE",
+        "arrival": "NGB",
+        "altitude": 182,
+        "groundspeed": 375
+    },
+    {
+        "longitude": 121.20161,
+        "latitude": 31.26751,
+        "heading": 236,
+        "flight_number": "DKH1287-1607076540-schedule-0354:0",
+        "departure": "SHA",
+        "arrival": "CAN",
+        "altitude": 46,
+        "groundspeed": 251
+    },
+    {
+        "longitude": 118.79764,
+        "latitude": 29.08435,
+        "heading": 228,
+        "flight_number": "CXA8321-1607073757-airline-0012",
+        "departure": "HGH",
+        "arrival": "SYX",
+        "altitude": 236,
+        "groundspeed": 352
+    },
+    {
+        "longitude": 121.34028,
+        "latitude": 31.12605,
+        "heading": 357,
+        "flight_number": "VPCNC-1607242144-adhoc-0:0",
+        "departure": null,
+        "arrival": null,
+        "altitude": 8,
+        "groundspeed": 145
+    },
+    {
+        "longitude": 122.21428,
+        "latitude": 32.54819,
+        "heading": 158,
+        "flight_number": "CSZ9630-1607072700-schedule-0521:0",
+        "departure": "DLC",
+        "arrival": "JUZ",
+        "altitude": 321,
+        "groundspeed": 450
+    },
+    {
+        "longitude": 120.40884,
+        "latitude": 30.23843,
+        "heading": 63,
+        "flight_number": "VAS8314-1607230586-adhoc-0:0",
+        "departure": "KJA",
+        "arrival": null,
+        "altitude": -1,
+        "groundspeed": 127
+    },
+    {
+        "longitude": 120.6643,
+        "latitude": 28.62953,
+        "heading": 332,
+        "flight_number": "CSN3587-1607072700-schedule-0450:0",
+        "departure": "SZX",
+        "arrival": "SHA",
+        "altitude": 311,
+        "groundspeed": 410
+    },
+    {
+        "longitude": 120.60371,
+        "latitude": 31.65399,
+        "heading": 19,
+        "flight_number": "DKH1848-1607071800-schedule-0283:0",
+        "departure": "CSX",
+        "arrival": "WUX",
+        "altitude": 34,
+        "groundspeed": 171
+    },
+    {
+        "longitude": 121.78932,
+        "latitude": 31.15225,
+        "heading": 341,
+        "flight_number": "CSN8207-1607076540-schedule-0429:0",
+        "departure": "PVG",
+        "arrival": "CAN",
+        "altitude": 7,
+        "groundspeed": 141
+    },
+    {
+        "longitude": 120.96258,
+        "latitude": 28.35908,
+        "heading": 12,
+        "flight_number": "CSH9176-1607076540-schedule-0285:0",
+        "departure": "WNZ",
+        "arrival": "CGQ",
+        "altitude": null,
+        "groundspeed": null
+    },
+    {
+        "longitude": 121.79237,
+        "latitude": 31.1428,
+        "heading": 345,
+        "flight_number": "CES5644-1607070000-schedule-0377:0",
+        "departure": "SJW",
+        "arrival": "PVG",
+        "altitude": null,
+        "groundspeed": null
+    },
+    {
+        "longitude": 121.81221,
+        "latitude": 31.07812,
+        "heading": 342,
+        "flight_number": "N7777U-1607245817-adhoc-0:2",
+        "departure": null,
+        "arrival": null,
+        "altitude": 7,
+        "groundspeed": 130
+    },
+    {
+        "longitude": 118.60477,
+        "latitude": 31.98894,
+        "heading": 269,
+        "flight_number": "ETH3749-1607241079-airline-0042",
+        "departure": "PVG",
+        "arrival": "DEL",
+        "altitude": 276,
+        "groundspeed": 397
+    },
+    {
+        "longitude": 120.29857,
+        "latitude": 31.6144,
+        "heading": 325,
+        "flight_number": "CSZ9160-1607076540-schedule-0299:0",
+        "departure": "WUX",
+        "arrival": "PEK",
+        "altitude": 56,
+        "groundspeed": 270
+    },
+    {
+        "longitude": 121.02666,
+        "latitude": 28.2594,
+        "heading": 35,
+        "flight_number": "CXA8328-1607064340-airline-0045:0",
+        "departure": "FOC",
+        "arrival": "TAO",
+        "altitude": 277,
+        "groundspeed": 494
+    },
+    {
+        "longitude": 121.8247,
+        "latitude": 29.26584,
+        "heading": 35,
+        "flight_number": "CSN6350-1607068200-schedule-0445:0",
+        "departure": "SYX",
+        "arrival": "DLC",
+        "altitude": 351,
+        "groundspeed": 540
+    },
+    {
+        "longitude": 122.39434,
+        "latitude": 31.08367,
+        "heading": 198,
+        "flight_number": "CSN6978-1607071800-schedule-0415:0",
+        "departure": "DLC",
+        "arrival": "XMN",
+        "altitude": 321,
+        "groundspeed": 379
+    },
+    {
+        "longitude": 120.14487,
+        "latitude": 29.53293,
+        "heading": 92,
+        "flight_number": "CES5811-1607069100-schedule-0418:0",
+        "departure": "KMG",
+        "arrival": "SHA",
+        "altitude": 340,
+        "groundspeed": 559
+    },
+    {
+        "longitude": 119.78575,
+        "latitude": 30.13503,
+        "heading": 210,
+        "flight_number": "CQH8949-1607073600-schedule-0447:0",
+        "departure": "SHA",
+        "arrival": "SZX",
+        "altitude": 301,
+        "groundspeed": 373
+    },
+    {
+        "longitude": 121.16687,
+        "latitude": 31.24777,
+        "heading": 130,
+        "flight_number": "CES9052-1607070900-schedule-0497:0",
+        "departure": "YIH",
+        "arrival": "PVG",
+        "altitude": 138,
+        "groundspeed": 391
+    },
+    {
+        "longitude": 121.76076,
+        "latitude": 32.95148,
+        "heading": 339,
+        "flight_number": "CSN6200-1607070000-schedule-0365:0",
+        "departure": "CAN",
+        "arrival": "DLC",
+        "altitude": 331,
+        "groundspeed": 424
+    },
+    {
+        "longitude": 121.23298,
+        "latitude": 31.0502,
+        "heading": 179,
+        "flight_number": "CDG4667-1607072700-schedule-0322:0",
+        "departure": "TAO",
+        "arrival": "SHA",
+        "altitude": 44,
+        "groundspeed": 178
+    },
+    {
+        "longitude": 121.21166,
+        "latitude": 30.02252,
+        "heading": 182,
+        "flight_number": "CDC8632-1607070000-schedule-0493:0",
+        "departure": "NNY",
+        "arrival": "NGB",
+        "altitude": 48,
+        "groundspeed": 182
+    },
+    {
+        "longitude": 121.23133,
+        "latitude": 31.13562,
+        "heading": 177,
+        "flight_number": "CES5418-1607069100-schedule-0361:0",
+        "departure": "CTU",
+        "arrival": "SHA",
+        "altitude": 56,
+        "groundspeed": 190
+    },
+    {
+        "longitude": 121.14229,
+        "latitude": 31.08735,
+        "heading": 220,
+        "flight_number": "CQH8801-1607075640-schedule-0316:0",
+        "departure": "PVG",
+        "arrival": "SYX",
+        "altitude": 119,
+        "groundspeed": 329
+    },
+    {
+        "longitude": 119.94588,
+        "latitude": 31.57448,
+        "heading": 93,
+        "flight_number": "CES2980-1607070900-schedule-0486:0",
+        "departure": "XMN",
+        "arrival": "WUX",
+        "altitude": 128,
+        "groundspeed": 259
+    },
+    {
+        "longitude": 121.46507,
+        "latitude": 29.82494,
+        "heading": 270,
+        "flight_number": "CQH8640-1607070900-schedule-0438:0",
+        "departure": "YNZ",
+        "arrival": "NGB",
+        "altitude": null,
+        "groundspeed": null
+    },
+    {
+        "longitude": 119.66815,
+        "latitude": 29.64083,
+        "heading": 237,
+        "flight_number": "CXA8415-1607069100-schedule-0507:0",
+        "departure": "HGH",
+        "arrival": "CKG",
+        "altitude": 197,
+        "groundspeed": 338
+    },
+    {
+        "longitude": 122.00116,
+        "latitude": 32.42973,
+        "heading": 339,
+        "flight_number": "CSC8581-1607073600-schedule-0419:0",
+        "departure": "HGH",
+        "arrival": "HRB",
+        "altitude": 278,
+        "groundspeed": 454
+    },
+    {
+        "longitude": 121.18337,
+        "latitude": 30.19527,
+        "heading": 29,
+        "flight_number": "CSH9270-1607073600-schedule-0458:0",
+        "departure": "JGS",
+        "arrival": "SHA",
+        "altitude": 168,
+        "groundspeed": 411
+    },
+    {
+        "longitude": 119.76094,
+        "latitude": 28.64373,
+        "heading": 345,
+        "flight_number": "CSN3683-1607072700-schedule-0373:0",
+        "departure": "CAN",
+        "arrival": "YIW",
+        "altitude": 193,
+        "groundspeed": 354
+    },
+    {
+        "longitude": 120.63005,
+        "latitude": 30.94695,
+        "heading": 254,
+        "flight_number": "CXA8570-1607075319-airline-0012:0",
+        "departure": "SHA",
+        "arrival": "CSX",
+        "altitude": 235,
+        "groundspeed": 335
+    },
+    {
+        "longitude": 122.46411,
+        "latitude": 31.33937,
+        "heading": 194,
+        "flight_number": "CSC8826-1607064300-schedule-0300:0",
+        "departure": "HRB",
+        "arrival": "WNZ",
+        "altitude": 341,
+        "groundspeed": 389
+    },
+    {
+        "longitude": 119.02007,
+        "latitude": 29.66922,
+        "heading": 96,
+        "flight_number": "CES5495-1607070000-schedule-0360:0",
+        "departure": "CTU",
+        "arrival": "HGH",
+        "altitude": 138,
+        "groundspeed": 380
+    },
+    {
+        "longitude": 119.9266,
+        "latitude": 31.62927,
+        "heading": 296,
+        "flight_number": "CSZ9810-1607076540-schedule-0394:0",
+        "departure": "WUX",
+        "arrival": "SZX",
+        "altitude": 99,
+        "groundspeed": 272
+    },
+    {
+        "longitude": 119.77316,
+        "latitude": 29.0316,
+        "heading": 348,
+        "flight_number": "CES2914-1607072700-schedule-0308:0",
+        "departure": "XMN",
+        "arrival": "CZX",
+        "altitude": 246,
+        "groundspeed": 448
+    },
+    {
+        "longitude": 120.44037,
+        "latitude": 30.23219,
+        "heading": 63,
+        "flight_number": "CSZ9882-1607072700-schedule-0508:0",
+        "departure": "HGH",
+        "arrival": "SZX",
+        "altitude": 3,
+        "groundspeed": 159
+    },
+    {
+        "longitude": 118.81154,
+        "latitude": 28.18924,
+        "heading": 269,
+        "flight_number": "CGH1098-1607074740-schedule-0315:0",
+        "departure": "WNZ",
+        "arrival": "CSX",
+        "altitude": 217,
+        "groundspeed": 371
+    },
+    {
+        "longitude": 120.43597,
+        "latitude": 32.1915,
+        "heading": 276,
+        "flight_number": "TBA9866-1607074740-schedule-0339:0",
+        "departure": "SHA",
+        "arrival": "CTU",
+        "altitude": 300,
+        "groundspeed": 357
+    },
+    {
+        "longitude": 121.28022,
+        "latitude": 30.69264,
+        "heading": 7,
+        "flight_number": "CQH8808-1607072700-schedule-0305:0",
+        "departure": "XMN",
+        "arrival": "SHA",
+        "altitude": 80,
+        "groundspeed": 262
+    },
+    {
+        "longitude": 121.31559,
+        "latitude": 30.88964,
+        "heading": 12,
+        "flight_number": "CES5346-1607070900-schedule-0388:0",
+        "departure": "SZX",
+        "arrival": "SHA",
+        "altitude": 43,
+        "groundspeed": 211
+    },
+    {
+        "longitude": 120.05046,
+        "latitude": 33.69272,
+        "heading": 154,
+        "flight_number": "CSZ9732-1607070000-schedule-0371:0",
+        "departure": "SHE",
+        "arrival": "NTG",
+        "altitude": null,
+        "groundspeed": null
+    },
+    {
+        "longitude": 119.57552,
+        "latitude": 29.83026,
+        "heading": 214,
+        "flight_number": "CSN3536-1607071800-schedule-0463:0",
+        "departure": "TAO",
+        "arrival": "CAN",
+        "altitude": 321,
+        "groundspeed": 374
+    },
+    {
+        "longitude": 119.32987,
+        "latitude": 32.85631,
+        "heading": 328,
+        "flight_number": "CCA1518-1607074690-airline-0002:0",
+        "departure": "SHA",
+        "arrival": "PEK",
+        "altitude": 301,
+        "groundspeed": 424
+    },
+    {
+        "longitude": 119.28204,
+        "latitude": 32.76485,
+        "heading": 153,
+        "flight_number": "CSZ9652-1607069100-schedule-0405:0",
+        "departure": "SHE",
+        "arrival": "CZX",
+        "altitude": null,
+        "groundspeed": null
+    },
+    {
+        "longitude": 118.86203,
+        "latitude": 31.74205,
+        "heading": 270,
+        "flight_number": "CES9774-1607072700-schedule-0489:0",
+        "departure": "TAO",
+        "arrival": "NKG",
+        "altitude": null,
+        "groundspeed": null
+    },
+    {
+        "longitude": 120.39125,
+        "latitude": 28.85033,
+        "heading": 7,
+        "flight_number": "CXA8505-1607072495-airline-0023:0",
+        "departure": "XMN",
+        "arrival": "SHA",
+        "altitude": 226,
+        "groundspeed": 363
+    },
+    {
+        "longitude": 118.86203,
+        "latitude": 31.74205,
+        "heading": 128,
+        "flight_number": "CDG4922-1607072700-schedule-0413:0",
+        "departure": "YNT",
+        "arrival": "NKG",
+        "altitude": null,
+        "groundspeed": null
+    },
+    {
+        "longitude": 120.72375,
+        "latitude": 31.53012,
+        "heading": 115,
+        "flight_number": "YZR7542-1607070000-schedule-0323:0",
+        "departure": "TNA",
+        "arrival": "HYN",
+        "altitude": 311,
+        "groundspeed": 523
+    },
+    {
+        "longitude": 119.22023,
+        "latitude": 32.98842,
+        "heading": 328,
+        "flight_number": "CCA8306-1607072700-schedule-0552:0",
+        "departure": "WNZ",
+        "arrival": "PEK",
+        "altitude": 341,
+        "groundspeed": 391
+    },
+    {
+        "longitude": 119.62678,
+        "latitude": 31.58313,
+        "heading": 89,
+        "flight_number": "DKH1008-1607070900-schedule-0362:0",
+        "departure": "XIY",
+        "arrival": "PVG",
+        "altitude": 291,
+        "groundspeed": 511
+    },
+    {
+        "longitude": 121.85233,
+        "latitude": 30.97181,
+        "heading": 342,
+        "flight_number": "CES2838-1607070000-schedule-0486:0",
+        "departure": "LZH",
+        "arrival": "PVG",
+        "altitude": 29,
+        "groundspeed": 179
+    },
+    {
+        "longitude": 121.31587,
+        "latitude": 30.32185,
+        "heading": 231,
+        "flight_number": "CSC3202-1607070000-schedule-0511:0",
+        "departure": "SJW",
+        "arrival": "NGB",
+        "altitude": 82,
+        "groundspeed": 253
+    },
+    {
+        "longitude": 121.84689,
+        "latitude": 31.07867,
+        "heading": 342,
+        "flight_number": "CAL503-1607071800-schedule-0370:2",
+        "departure": "TPE",
+        "arrival": "PVG",
+        "altitude": 7,
+        "groundspeed": 151
+    },
+    {
+        "longitude": 122.52838,
+        "latitude": 31.6464,
+        "heading": 81,
+        "flight_number": "N316UP-1607248664-adhoc-0:0",
+        "departure": "PVG",
+        "arrival": null,
+        "altitude": 157,
+        "groundspeed": 434
+    },
+    {
+        "longitude": 118.72516,
+        "latitude": 33.0512,
+        "heading": 145,
+        "flight_number": "CES5120-1607072700-schedule-0459:0",
+        "departure": "PEK",
+        "arrival": "SHA",
+        "altitude": 306,
+        "groundspeed": 456
+    },
+    {
+        "longitude": 119.60071,
+        "latitude": 29.7285,
+        "heading": 272,
+        "flight_number": "CSN3776-1607075640-schedule-0397:0",
+        "departure": "NGB",
+        "arrival": "CAN",
+        "altitude": 217,
+        "groundspeed": 384
+    },
+    {
+        "longitude": 118.89991,
+        "latitude": 29.33116,
+        "heading": 269,
+        "flight_number": "CES2994-1607074740-schedule-0271:0",
+        "departure": "SHA",
+        "arrival": "KOW",
+        "altitude": 276,
+        "groundspeed": 373
+    },
+    {
+        "longitude": 119.8508,
+        "latitude": 29.57355,
+        "heading": 91,
+        "flight_number": "CES5272-1607073600-schedule-0256:0",
+        "departure": "CSX",
+        "arrival": "SHA",
+        "altitude": 266,
+        "groundspeed": 455
+    },
+    {
+        "longitude": 121.05341,
+        "latitude": 31.56893,
+        "heading": 336,
+        "flight_number": "CCA1524-1607076540-schedule-0501:0",
+        "departure": "SHA",
+        "arrival": "TSN",
+        "altitude": 109,
+        "groundspeed": 304
+    },
+    {
+        "longitude": 120.54614,
+        "latitude": 30.23891,
+        "heading": 88,
+        "flight_number": "CSN6450-1607075640-schedule-0378:0",
+        "departure": "HGH",
+        "arrival": "DLC",
+        "altitude": 38,
+        "groundspeed": 220
+    },
+    {
+        "longitude": 121.52064,
+        "latitude": 30.42677,
+        "heading": 237,
+        "flight_number": "CSN6287-1607069100-schedule-0407:0",
+        "departure": "SHE",
+        "arrival": "HGH",
+        "altitude": 121,
+        "groundspeed": 345
+    },
+    {
+        "longitude": 120.98197,
+        "latitude": 29.20766,
+        "heading": 24,
+        "flight_number": "CSN6765-1607070000-schedule-0310:0",
+        "departure": "HAK",
+        "arrival": "PVG",
+        "altitude": 268,
+        "groundspeed": 519
+    },
+    {
+        "longitude": 121.32617,
+        "latitude": 31.23523,
+        "heading": 335,
+        "flight_number": "CES5121-1607076540-schedule-0437:0",
+        "departure": "SHA",
+        "arrival": "PEK",
+        "altitude": 13,
+        "groundspeed": 175
+    },
+    {
+        "longitude": 123.38575,
+        "latitude": 33.50565,
+        "heading": 180,
+        "flight_number": "CES208-1607027280-schedule-0168:0",
+        "departure": "YYZ",
+        "arrival": "PVG",
+        "altitude": 351,
+        "groundspeed": 448
+    },
+    {
+        "longitude": 120.33067,
+        "latitude": 31.60098,
+        "heading": 39,
+        "flight_number": "OTC7251-1607071800-schedule-0366:0",
+        "departure": "CSX",
+        "arrival": "WUX",
+        "altitude": 66,
+        "groundspeed": 205
+    },
+    {
+        "longitude": 120.15551,
+        "latitude": 32.2148,
+        "heading": 275,
+        "flight_number": "CES5517-1607075640-schedule-0344:0",
+        "departure": "SHA",
+        "arrival": "TAO",
+        "altitude": 277,
+        "groundspeed": 381
+    },
+    {
+        "longitude": 122.57138,
+        "latitude": 31.79271,
+        "heading": 158,
+        "flight_number": "DKH1166-1607072700-schedule-0435:0",
+        "departure": "DLC",
+        "arrival": "PVG",
+        "altitude": 196,
+        "groundspeed": 367
+    },
+    {
+        "longitude": 119.62886,
+        "latitude": 29.85475,
+        "heading": 194,
+        "flight_number": "CXA8586-1607074690-airline-0007:0",
+        "departure": "SHA",
+        "arrival": "FOC",
+        "altitude": 276,
+        "groundspeed": 387
+    },
+    {
+        "longitude": 119.55883,
+        "latitude": 30.7194,
+        "heading": 163,
+        "flight_number": "HBH3245-1607073600-schedule-0387:0",
+        "departure": "NKG",
+        "arrival": "XMN",
+        "altitude": 251,
+        "groundspeed": 362
+    },
+    {
+        "longitude": 119.53164,
+        "latitude": 32.51474,
+        "heading": 324,
+        "flight_number": "CSC8609-1607075640-schedule-0308:0",
+        "departure": "CZX",
+        "arrival": "YNT",
+        "altitude": 118,
+        "groundspeed": 368
+    },
+    {
+        "longitude": 120.86768,
+        "latitude": 31.00649,
+        "heading": 254,
+        "flight_number": "CSZ9512-1607075640-schedule-0381:0",
+        "departure": "SHA",
+        "arrival": "SZX",
+        "altitude": 166,
+        "groundspeed": 340
+    },
+    {
+        "longitude": 119.66039,
+        "latitude": 30.43355,
+        "heading": 163,
+        "flight_number": "CSZ9826-1607075640-schedule-0274:0",
+        "departure": "WUX",
+        "arrival": "CAN",
+        "altitude": 276,
+        "groundspeed": 432
+    },
+    {
+        "longitude": 119.6761,
+        "latitude": 31.98363,
+        "heading": 145,
+        "flight_number": "CES5524-1607073600-schedule-0344:0",
+        "departure": "TAO",
+        "arrival": "SHA",
+        "altitude": 187,
+        "groundspeed": 423
+    },
+    {
+        "longitude": 122.14987,
+        "latitude": 30.99078,
+        "heading": 236,
+        "flight_number": "CSN6225-1607073600-schedule-0378:0",
+        "departure": "TAO",
+        "arrival": "PVG",
+        "altitude": 32,
+        "groundspeed": 222
+    },
+    {
+        "longitude": 121.01263,
+        "latitude": 29.7716,
+        "heading": 45,
+        "flight_number": "CGN8371-1607075640-schedule-0322:0",
+        "departure": "JDZ",
+        "arrival": "NGB",
+        "altitude": 68,
+        "groundspeed": 222
+    },
+    {
+        "longitude": 120.97702,
+        "latitude": 32.11513,
+        "heading": 359,
+        "flight_number": "HBH3331-1607076540-schedule-0382:0",
+        "departure": "NTG",
+        "arrival": "WNZ",
+        "altitude": 17,
+        "groundspeed": 185
+    },
+    {
+        "longitude": 120.84993,
+        "latitude": 29.65485,
+        "heading": 28,
+        "flight_number": "CSZ9515-1607071589-airline-0065:0",
+        "departure": "SZX",
+        "arrival": "SHA",
+        "altitude": 265,
+        "groundspeed": 542
+    },
+    {
+        "longitude": 121.43748,
+        "latitude": 29.70854,
+        "heading": 266,
+        "flight_number": "CQH8907-1607075640-schedule-0393:0",
+        "departure": "NGB",
+        "arrival": "MIG",
+        "altitude": 86,
+        "groundspeed": 272
+    },
+    {
+        "longitude": 119.20183,
+        "latitude": 33.13113,
+        "heading": 28,
+        "flight_number": "CES2934-1607074740-schedule-0455:0",
+        "departure": "WUX",
+        "arrival": "DLC",
+        "altitude": 225,
+        "groundspeed": 451
+    },
+    {
+        "longitude": 119.608,
+        "latitude": 29.45503,
+        "heading": 181,
+        "flight_number": "CQH8665-1607072700-schedule-0511:0",
+        "departure": "HIA",
+        "arrival": "WNZ",
+        "altitude": 256,
+        "groundspeed": 399
+    },
+    {
+        "longitude": 122.3919,
+        "latitude": 33.91951,
+        "heading": 252,
+        "flight_number": "CSH9223-1607070000-schedule-0379:0",
+        "departure": "CGQ",
+        "arrival": "PVG",
+        "altitude": 276,
+        "groundspeed": 393
+    },
+    {
+        "longitude": 119.53202,
+        "latitude": 29.96004,
+        "heading": 346,
+        "flight_number": "CQH6174-1607071800-schedule-0422:0",
+        "departure": "SWA",
+        "arrival": "CZX",
+        "altitude": 246,
+        "groundspeed": 461
+    },
+    {
+        "longitude": 120.42664,
+        "latitude": 30.0639,
+        "heading": 243,
+        "flight_number": "CSZ9984-1607074740-schedule-0415:0",
+        "departure": "HGH",
+        "arrival": "CAN",
+        "altitude": 118,
+        "groundspeed": 332
+    },
+    {
+        "longitude": 121.33248,
+        "latitude": 33.95254,
+        "heading": 342,
+        "flight_number": "CDG4776-1607072700-schedule-0509:0",
+        "departure": "HGH",
+        "arrival": "TAO",
+        "altitude": null,
+        "groundspeed": null
+    },
+    {
+        "longitude": 118.60433,
+        "latitude": 28.99718,
+        "heading": 228,
+        "flight_number": "CES6489-1607074740-schedule-0396:0",
+        "departure": "NGB",
+        "arrival": "BAR",
+        "altitude": 295,
+        "groundspeed": 367
+    },
+    {
+        "longitude": 119.19457,
+        "latitude": 32.09413,
+        "heading": 253,
+        "flight_number": "DKH1025-1607074740-schedule-0441:0",
+        "departure": "PVG",
+        "arrival": "MIG",
+        "altitude": 301,
+        "groundspeed": 374
+    },
+    {
+        "longitude": 120.29738,
+        "latitude": 30.18896,
+        "heading": 63,
+        "flight_number": "CSZ8151-1607070900-schedule-0426:0",
+        "departure": "YCU",
+        "arrival": "HGH",
+        "altitude": 18,
+        "groundspeed": 138
+    }
+]

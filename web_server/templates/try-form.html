@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>simple html form demo</title>
+	</head>
+	<body>
+		<h1>Simple HTML page</h1>
+		<hr/>
+
+		<h2>paragraph</h2>
+		<p>I hate involution. My GPA dropped dramatically.</p>
+		<hr/>
+
+		<h2>form</h2>
+
+		<form action="/form-demo/" method="POST">
+			<input type="radio" name="led-mode" value="normal">normal on
+			<input type="radio" name="led-mode" value="blink">twinkling<br>
+			airport <input type="text" name="airport" placeholder="PuDong"><br>
+			<input type="submit" value="submit">
+		</form>
+		<hr/>
+
+
+		<h2>jinja2 template dynamic page</h2>
+		{% if flights %}
+			<h3>flights</h3>
+			<ul>
+			{% for f in flights %}
+				<li>
+					<a href="#">IATA</a>: {[ f.get('ident') ]}
+				</li>
+			{% endfor %}
+			</ul>
+		{% endif %}
+		<br>
+
+		{% if msg %}
+		Message from the server: <p>{[ msg ]}</p>
+		{% endif %}
+		<br>
+
+	</body>
+</html>

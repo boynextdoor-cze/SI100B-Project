@@ -1,0 +1,6 @@
+gpiozero
+requests
+redis
+flask
+numpy
+matplotlib
