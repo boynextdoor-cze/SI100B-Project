@@ -18,7 +18,7 @@ The project contains four parts. Each part requires you to implement a particula
 
 The 4 parts are:
 
-- **[Part 1](./docs/README.part1.md)**: Build your web crawler [[report]](https://github.com/boynextdoor-cze/SI100B-Project/blob/main/report/Team_GG_week1.md)
+- **[Part 1](./docs/README.part1.md)**: Build your web crawler [[report]](report/Team_GG_week1.md)
 - **[Part 2](./docs/README.part2.md)**: Control the LEDs via GPIO [[report]](https://github.com/boynextdoor-cze/SI100B-Project/blob/main/report/week2.md)
 - **[Part 3](./docs/README.part3.md)**: Build control panel [[report]](https://github.com/boynextdoor-cze/SI100B-Project/blob/main/report/week3.md)
 - **[Part 4](./docs/README.part4.md)**: Perform data visualization [[report]](https://github.com/boynextdoor-cze/SI100B-Project/blob/main/report/week4.md)
