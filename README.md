@@ -25,7 +25,7 @@ The 4 parts are:
 
 ## How to run the Project?
 
-1. Install dependency
+### Install dependencies
 
   ```
   pip3 install -r requirements.txt
@@ -41,9 +41,11 @@ The 4 parts are:
 
   If normal, the output in the terminal should be like this:
 
-  ![](D:\OneDrive - shanghaitech.edu.cn\Assignment\2020-fall\SI100B\SI100B-Project\docs\img\redis.png)
+  ![](docs/img/redis.png)
 
-2. In terminal run
+### Launch the program
+
+In terminal run
 
   ```
   python main.py --web
@@ -57,8 +59,12 @@ The 4 parts are:
 
   to launch the project program.
 
-3. If the response of the server is normal, enter `localhost:8999` in the browser address bar, then you can see a beautifully rendered webpage like this:
+### Open the webpage
 
-	![](D:\OneDrive - shanghaitech.edu.cn\Assignment\2020-fall\SI100B\SI100B-Project\docs\img\webpage.png)
+If the response of the server is normal, enter `localhost:8999` in the browser address bar, then you can see a beautifully rendered webpage like this:
 
-4. You can change the arguments in the interactive interface, and see the visualized results in the `Map` bar and `Data Visualization` bar.
+![](docs/img/webpage.png)
+
+### Retrieve data by yourself
+
+You can change the arguments in the interactive interface, and see the visualized results in the `Map` bar and `Data Visualization` bar.
