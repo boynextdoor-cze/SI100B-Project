@@ -1,4 +1,4 @@
-# Project Report - Week 1 #
+# Project Report - Week 4
 
 The report is finished by collaboration
 
@@ -141,7 +141,7 @@ For example, the former call the render_template function. Jinja will search tes
         <br />
         This is a test version. Don't run it in production environments.
     {% endif %}
-``` 
+```
 
 ## Implementation
 
@@ -164,4 +164,3 @@ For example, the former call the render_template function. Jinja will search tes
         ```
             data:[<mediatype>][;base64],<data>
         ```
-        
