@@ -34,12 +34,6 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
-aggregation ideas.md
-dependence_relationship.md
-main.py.backup
-misc-record
-references.md
-workflow.md
 
 #Miscs
 reference/
