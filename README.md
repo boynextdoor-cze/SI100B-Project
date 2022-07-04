@@ -1,6 +1,6 @@
 # SI100B Project: Who is Flying over?
 
-Our project is an excellent course project (top 5). For demonstration, here's our [poster](Demonstration Poster.pdf).
+Our project is an excellent course project (top 5).
 
 Welcome to the python programming project for SI100B. In this project, you are going to build a web crawler that runs on a Raspberry Pi (a mini-computer) to obtain real-time flight data from a website called FlightRadar24 (or an alternative called FlightAware). You are going to control LED lights on an external circuit through the GPIO interface of your Raspberry Pi according to different scenarios and visualize your data analysis through graphs or a website. To be specific, you will build:
 
